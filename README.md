@@ -99,7 +99,7 @@ Actualmente busco seguir creciendo como desarrollador, participando en proyectos
       </p>
     </td>
     <td width="50%">
-      <h3>Postular App</h3>
+      <h3>JobTrackerAI</h3>
       <p>
         Aplicación web para la gestión inteligente de postulaciones laborales con IA, dashboard, scoring automático y generación de mensajes personalizados.
       </p>
