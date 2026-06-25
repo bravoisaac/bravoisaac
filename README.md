@@ -90,17 +90,7 @@ https://github.com/bravoisaac/Postular_app
 
 ---
 
-## Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bravoisaac&show_icons=true&theme=github_dark" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bravoisaac&layout=compact&theme=github_dark" alt="Top languages" />
-</p>
-
----
 
 ## Actualmente aprendiendo
 
