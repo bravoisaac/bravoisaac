@@ -14,7 +14,7 @@ Desarrollador Full Stack Junior | Python · JavaScript · TypeScript · PHP · S
 
 ## Sobre mí
 
-Soy Ingeniero en Informática titulado de Duoc UC, ubicado en Concepción, Chile.  
+Soy Ingeniero en Informática , ubicado en Concepción, Chile.  
 Me enfoco en desarrollo Full Stack, automatización de procesos, optimización de bases de datos y soluciones con inteligencia artificial aplicada.
 
 Tengo experiencia construyendo sistemas backend, trabajando con bases de datos MySQL, desarrollando APIs REST y automatizando procesos administrativos con herramientas como Power Automate.
